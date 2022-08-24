@@ -1,0 +1,4 @@
+com\tomtest\Context.class
+com\tomtest\InsertData.class
+com\tomtest\FetchData.class
+com\tomtest\DeleteData.class
